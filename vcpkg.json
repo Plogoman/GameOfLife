@@ -1,0 +1,18 @@
+{
+  "name" : "gameoflife",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "e3ad383ceb886677eb181e16adeeb4d4a2c2d4c4",
+  "dependencies" : [ {
+    "name" : "raylib",
+    "version>=" : "5.0",
+    "features": [
+      "use-audio"
+    ]
+  }, {
+    "name" : "vcpkg-cmake",
+    "version>=" : "2024-04-23"
+  }, {
+    "name" : "vcpkg-cmake-config",
+    "version>=" : "2024-05-23"
+  } ]
+}
